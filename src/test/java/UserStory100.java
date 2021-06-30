@@ -7,5 +7,6 @@ public class UserStory100 {
         }
         System.out.println("Message from Duct Pro Cleaning");
         System.out.println("Message from Duct Pro Cleaning...");
+        System.out.println("Message from Duct Pro Cleaning......");
     }
 }
